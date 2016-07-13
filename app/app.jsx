@@ -23,7 +23,11 @@
         document.getElementById('app')
         
         )
-        
+    
+  //  require("./redux.jsx")
+        require("./reduxTD.jsx")
+
+    
         
         
 //when button gets clicked, call a parent function on the prop called child'name=parentfunctionName = setState
